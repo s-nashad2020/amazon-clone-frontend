@@ -1,2 +1,2 @@
 To see the layout, click on the following link: 
-https://s-nashad2020.github.io/amazon-clone-frontend/
+https://main--resonant-marigold-2884f4.netlify.app/
